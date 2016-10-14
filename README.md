@@ -8,3 +8,5 @@ rem的使用
 rem相对于根元素<html>的font-size来做计算,举个例子：
 设置根元素<html>的font-size：14px，div宽高为10rem，则得到一个宽高各为140px的div。
 需注意的是使用rem布局需在页面头部定义mate标签禁止页面缩放。
+
+[My blog](http://www.yzb123.top/)
